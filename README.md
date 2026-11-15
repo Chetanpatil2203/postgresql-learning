@@ -48,6 +48,3 @@ I am learning by writing queries, solving exercises, fixing errors, and practisi
 ---
 
 Learning by doing, one query at a time.
-
-
-
